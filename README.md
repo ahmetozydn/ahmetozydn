@@ -12,17 +12,15 @@ I'm a person who enjoys doing his job and loves to produce a solution to help pe
 
 <h2 align="center">interested in :arrow_down:</h2>
 
-
 *  _Android Application Development_</br>
 *  _Backend Technologies_</br>
 *  _Database_</br>
 *  _Cyber Security_</br>
 *  _Network_</br>
 
-<h3 align="center">How to reach me 📫</h3>
+<h3 align="center">How to reach me 📫</h3> 
 
-
-
+_________________
 
 <p align="center">
 	<a href="mailto:ahmetozaydn944@gmail.com"><img src="https://img.icons8.com/bubbles/75/000000/gmail.png" alt="Gmail"/></a>
@@ -33,6 +31,7 @@ I'm a person who enjoys doing his job and loves to produce a solution to help pe
 
 <h3 align="center">Languages and Tools :pencil2:</h3>
 
+_________________
 
 </br>
 
@@ -41,24 +40,22 @@ I'm a person who enjoys doing his job and loves to produce a solution to help pe
 |<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="android" width="40" height="40"/>|<img align="center" src="https://developer.android.com/images/logos/android.svg" alt="csharp" width="40" height="40"/>|<img align="center" src="https://user-images.githubusercontent.com/75504778/234071540-00c3289a-da53-4006-9917-01ff4d4655a1.png" alt="firebase" width="40" height="40"/>|<img align="center" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="java" width="40" height="40"/>|<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="kotlin" width="40" height="40"/>|<img align="center" src="https://user-images.githubusercontent.com/75504778/234074121-2881246e-a785-4df3-9f88-d621b41306e0.png" alt="linux" width="40" height="40"/>|<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" alt="python" width="40" height="40"/>|<img align="center" src = "https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/>|
 
 
-
-
 </br>
 
 | Github stats 📈  |      weekly report  :newspaper:    |
 |:----------:|:-------------:|
-|  <img src="https://github-readme-stats.vercel.app/api?username=ahmetozydn&show_icons=true&theme=gotham" alt="abhisheknaiidu" /> |  ![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=ahmetozydn&hide_title=true&hide_border=true&langs_count=5&bg_color=00000000&text_color=777) |
+|    [![Ahmet Ozydn's GitHub stats](https://github-readme-stats.vercel.app/api?username=ahmetozydn)](https://github.com/ahmetozydn/github-readme-stats)|  ![Wakatime stats](https://github-readme-stats-taupe-two.vercel.app/api/wakatime?username=ahmetozydn&hide_title=false&hide_border=false&langs_count=5&bg_color=00000000&text_color=777) |
 
 </br>
 
 <h4 align="center">
-approximately coding time from Wakatime</br>
+<i>approximately coding time:</i>
+	</br>
 <img align = "center" src = "https://wakatime.com/badge/user/dfdf14c9-d1a4-401c-8fde-7c0618f948fe.svg"
 </h4>	
 
 
-   
-
+ 
 <!--
 <a href="https://github.com/ahmetozydn">
         <img alt="github"
