@@ -55,14 +55,17 @@ _________________
 </h4>	
 
 
- 
+</br>
+</br>
 <!--
 <a href="https://github.com/ahmetozydn">
         <img alt="github"
             src="https://img.shields.io/github/stars/ahmetozydn?affiliations=OWNER&color=%23ffe411&label=github%20stars&logo=github&logoColor=%23fffFF&style=flat" />
     </a>
+
+
 -->
 <!--[![ahmetozydn's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ahmetozydn)](https://github.com/anuraghazra/github-readme-stats)
 -->
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetozydn&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ahmetozydn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 <!-- [![GitHub Streak](https://streak-stats.demolab.com/?user=ahmetozydn)](https://git.io/streak-stats) -->
