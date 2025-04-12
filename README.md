@@ -26,7 +26,7 @@ _________________
 	<a href="mailto:ahmetozaydn944@gmail.com"><img src="https://img.icons8.com/bubbles/75/000000/gmail.png" alt="Gmail"/></a>
 	<a href="https://www.linkedin.com/in/ahmet-%C3%B6zayd%C4%B1n-1b65b2173/"><img src="https://img.icons8.com/bubbles/75/000000/linkedin.png" alt="LinkedIn"/></a>
 	<a href="https://twitter.com/cahiliyetsahibi"><img src="https://img.icons8.com/bubbles/75/000000/twitter-circled.png" alt="Twitter"/></a>
-	<a href="https://www.instagram.com/ahmettozydn/"><img src="https://img.icons8.com/bubbles/75/000000/instagram-new--v2.png" alt="Instagram"/></a>
+	<a href="https://medium.com/@ahmetozaydn944"><img src="https://img.icons8.com/?size=100&id=XVNvUWCvvlD9&format=png&color=000000" alt="Medium"/></a>
 </p>
 
 <h3 align="center">Languages and Tools :pencil2:</h3>
